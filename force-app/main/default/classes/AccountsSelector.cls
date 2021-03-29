@@ -17,6 +17,4 @@ public without sharing class AccountsSelector extends Selector
         sObjType = Account.sObjectType;
         fieldset = SObjectType.Account.FieldSets.Selector;
     }
-
-
 }
